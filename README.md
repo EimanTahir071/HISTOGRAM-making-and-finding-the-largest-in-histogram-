@@ -2,6 +2,8 @@
 
 A comprehensive guide and implementation for histogram creation and finding the largest rectangle in a histogram. This project covers fundamental data structure concepts and efficient algorithmic approaches to solve the classic histogram problem.
 
+<img src="/images/histogram.gif" alt="Histogram visualization" width="100%" height="400px" />
+
 ## Overview
 
 This project addresses two core problems:
@@ -178,3 +180,4 @@ MIT License - Feel free to use and modify for learning purposes.
 ---
 
 **Last Updated**: February 2026
+
